@@ -27,11 +27,11 @@
     </nav>
     <div class="section no-pad-bot" id="index-banner">
       <div class="container">
-        <h2 class="header center coal-text">New Payment</h2>
+        <h2 class="header center coal-text">Hola, {{ $nombre }}</h2>
         <div class="row">
           <div class="row">
             <form class="col s12 center">
-              <div class="row">                
+              <div class="row">
                 <div class="input-field col s6">
                   <input name="group1" type="radio" id="test1" />
                   <label for="test1">Andreu</label>
